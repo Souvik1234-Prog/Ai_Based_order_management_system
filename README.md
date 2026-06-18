@@ -1,6 +1,6 @@
 # OptiFlow OMS — Streamlit Version
 
-AI-powered eyewear order management. Pure Python, no Node.js needed.
+AI-powered eyewear order management. Pure Python and Streamlit.
 
 ## Quick Start
 
